@@ -9,6 +9,10 @@
   --green-rgb: 125 161 35;
 }
 
+*::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   background-color: white;
   font-family: "Work Sans", sans-serif;
